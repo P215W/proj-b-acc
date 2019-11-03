@@ -21,7 +21,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and Marc auf Branch Nummer2
+          Learn React and Marc auf Branch Nummer2, also branch2.
         </a>
       </header>
     </div>
