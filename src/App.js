@@ -21,8 +21,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and Marc auf Branch2
+          Learn React and Marc auf Branch2. Hier ist Master.
         </a>
+        <p>Der yweite Paragraph *das Feature* ist neu dazugeommen in branch2.</p>
       </header>
     </div>
   );
